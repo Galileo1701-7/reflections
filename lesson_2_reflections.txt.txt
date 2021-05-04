@@ -6,3 +6,6 @@ it separates to logical groups and stages for committ
 
 How can you use the staging area to make sure you have one commit per logical change?
 obvious
+
+How do the diagrams help you visualize the branch structure?
+visulize the branches better
