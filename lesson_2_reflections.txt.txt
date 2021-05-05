@@ -17,7 +17,3 @@ to show the repective parents
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 auto is much easier but maynot be intuitive
-
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-you may want the local, original repository to be the MASTER so that other peoples changes arent automatically pushed to you
-
