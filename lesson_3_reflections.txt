@@ -6,3 +6,12 @@ to share with others... also as a backup... also allow you to work from multiple
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 you may want the local, original repository to be the MASTER so that other peoples changes arent automatically pushed to you
 
+Describe the differences between forks, clones, and branches. 
+fork is a clone on git hub
+clone is copying a repository FROM github
+branch is a copy or diversion from the master
+
+When would you use one instead of another?
+see above
+
+
