@@ -14,4 +14,7 @@ branch is a copy or diversion from the master
 When would you use one instead of another?
 see above
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+working offline
+
 
